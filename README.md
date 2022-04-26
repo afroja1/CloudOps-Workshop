@@ -3,15 +3,22 @@ This is a repository containing all the memeber informations of CloudOps Februar
 
 ## Task List
 
-1.Learn Linux
-2. Learn Git
-3.Learn ALC
-4.Learn AWS
+ 1.Learn Linux
+
+ 2. Learn Git
+
+ 3.Learn ALC (*Python, NodeJS, Go, Kubernate*)
+
+
+ 4.Learn AWS
+
 
 ## To-do
--Learn Shell Scrptinh
--Learn python
--Learn aws
+ - Learn Shell Scrpting
+
+ - Learn python
+
+ - Learn aws
 
 
 

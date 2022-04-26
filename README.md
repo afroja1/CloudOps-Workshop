@@ -23,4 +23,17 @@ This is a repository containing all the memeber informations of CloudOps Februar
 
 
 
-## Comments 
+## Comments
+```bash
+
+$ mkdir
+
+$ ls
+
+$ git push
+
+`````
+
+
+
+ 
